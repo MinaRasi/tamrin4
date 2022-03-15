@@ -1,0 +1,15 @@
+C:\Users\mina\Desktop\sample4\obj\Debug\net6.0\sample4.csproj.AssemblyReference.cache
+C:\Users\mina\Desktop\sample4\obj\Debug\net6.0\sample4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mina\Desktop\sample4\obj\Debug\net6.0\sample4.AssemblyInfoInputs.cache
+C:\Users\mina\Desktop\sample4\obj\Debug\net6.0\sample4.AssemblyInfo.cs
+C:\Users\mina\Desktop\sample4\obj\Debug\net6.0\sample4.csproj.CoreCompileInputs.cache
+C:\Users\mina\Desktop\sample4\bin\Debug\net6.0\sample4.exe
+C:\Users\mina\Desktop\sample4\bin\Debug\net6.0\sample4.deps.json
+C:\Users\mina\Desktop\sample4\bin\Debug\net6.0\sample4.runtimeconfig.json
+C:\Users\mina\Desktop\sample4\bin\Debug\net6.0\sample4.dll
+C:\Users\mina\Desktop\sample4\bin\Debug\net6.0\sample4.pdb
+C:\Users\mina\Desktop\sample4\obj\Debug\net6.0\sample4.dll
+C:\Users\mina\Desktop\sample4\obj\Debug\net6.0\refint\sample4.dll
+C:\Users\mina\Desktop\sample4\obj\Debug\net6.0\sample4.pdb
+C:\Users\mina\Desktop\sample4\obj\Debug\net6.0\sample4.genruntimeconfig.cache
+C:\Users\mina\Desktop\sample4\obj\Debug\net6.0\ref\sample4.dll
